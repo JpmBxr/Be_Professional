@@ -43,7 +43,7 @@
                 <div class="row justify-content-center">
                     <div class="col-md-11 col-lg-10 col-xl-8">
                         <div class="form-holder">
-                            <form name="contactform" id="contactform" method="POST" class="row contact-form" onsubmit="return validateForm()">
+                            <form  id="contact-form" method="POST" class="row contact-form" onsubmit="return validateForm()">
 
                                 <!-- Contact Form Input -->
                                 <div class="col-md-12">

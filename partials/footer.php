@@ -60,7 +60,8 @@
                             <p><a href="contacts.php">Contact</a></p>
                         </li>
                         <li>
-                            <p><a href="careers.php">Careers</a></p>
+                            <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfjOr-GIIhJ-cdSQZQqQKky2IuD-3vTU5zN-qZvYRoXNsn4xA/viewform" target="_blank">Careers</a>
+                            </p>
                         </li>
                         <li>
                             <p><a href="#">Help Center</a></p>
@@ -106,12 +107,12 @@
 
                     <!-- Mobile No. 1st -->
                     <p class="footer-mail-link ico-25">
-                        <a href="+91-6203082927"><i class="fa-solid fa-phone"></i> +91-6203082927</a>
+                        <a href="+91- 80022 55735"><i class="fa-solid fa-phone"></i> +91- 80022 55735</a>
                     </p>
 
                     <!-- Mobile No. 2nd-->
                     <p class="footer-mail-link ico-25">
-                        <a href="+91-7979045152"><i class="fa-solid fa-phone"></i> +91-7979045152</a>
+                        <a href="+91-79790 45152"><i class="fa-solid fa-phone"></i> +91-79790 45152</a>
                     </p>
 
                     <!-- Mail Link -->
@@ -119,7 +120,7 @@
                         <a href="info@beprofessional.in"><i class="fa-solid fa-envelope"></i>
                             info@beprofessional.in</a>
                     </p>
-                    <a href="https://example.com" class="logo-link">
+                    <a href="index.php" class="logo-link">
                         <div class="logo"></div>
                     </a>
                     <!-- Social Links -->
@@ -133,7 +134,8 @@
                         <li><a href="https://api.whatsapp.com/send/?phone=91979045152&text&type=phone_number&app_absent=0" target="_blank"><span class="flaticon-whatsapp"></span></a></li>
                         <li><a href="https://www.instagram.com/beprofessional_official/" target="_blank"><span class="flaticon-instagram"></span></a></li>
                         <li><a href="https://www.facebook.com/contact2beprofessional" target="_blank"><span class="flaticon-facebook"></span></a></li>
-                        <li><a href="https://www.linkedin.com/in/be-professional-spn-79a245229/" target="_blank"><span class="flaticon-linkedin-logo"></span></a></li>
+                        <!-- <li><a href="https://www.linkedin.com/in/be-professional-spn-79a245229/" target="_blank"><span
+                                    class="flaticon-linkedin-logo"></span></a></li> -->
                     </ul>
                 </div>
             </div> <!-- END FOOTER LINKS -->
@@ -155,7 +157,7 @@
                 <!-- FOOTER SECONDARY LINK -->
                 <div class="col">
                     <div class="bottom-secondary-link ico-15 text-end">
-                        <p class="p-sm"><a href="#">Made with
+                        <p class="p-sm"><a href="index.php">Made with
                                 <span class="flaticon-heart text-danger"></span> by @Be Professional</a>
                         </p>
                     </div>

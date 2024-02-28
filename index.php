@@ -130,8 +130,7 @@
                             <div class="fbox-2 fb-1 wow fadeInUp">
                                 <!-- Image -->
                                 <div class="fbox-img gr--whitesmoke h-175">
-                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_01.png"
-                                        alt="feature-image">
+                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_01.png" alt="feature-image">
                                 </div>
 
                                 <!-- Text -->
@@ -152,8 +151,7 @@
 
                                 <!-- Image -->
                                 <div class="fbox-img gr--whitesmoke h-175">
-                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_02.png"
-                                        alt="feature-image">
+                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_02.png" alt="feature-image">
                                 </div>
 
                                 <!-- Text -->
@@ -172,8 +170,7 @@
                             <div class="fbox-2 fb-3 wow fadeInUp">
                                 <!-- Image -->
                                 <div class="fbox-img gr--whitesmoke h-175">
-                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_03.png"
-                                        alt="feature-image">
+                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_03.png" alt="feature-image">
                                 </div>
 
                                 <!-- Text -->
@@ -196,8 +193,7 @@
                             <div class="fbox-2 fb-1 wow fadeInUp">
                                 <!-- Image -->
                                 <div class="fbox-img gr--whitesmoke h-175">
-                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_04.png"
-                                        alt="feature-image">
+                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_04.png" alt="feature-image">
                                 </div>
 
                                 <!-- Text -->
@@ -205,7 +201,7 @@
                                     <h6 class="s-22 w-700">Meesho</h6>
                                     <p>Meesho seller account management services provide comprehensive support,
                                         including Meesho account creation, brand
-                                        registration, product listing, and Meesho advertisement/CPC/vCPM management.</p>
+                                        registration, product listing, and Meesho advertisement/CPC management.</p>
                                 </div>
                             </div>
                         </div> <!-- END FEATURE BOX #1 -->
@@ -215,8 +211,7 @@
 
                                 <!-- Image -->
                                 <div class="fbox-img gr--whitesmoke h-175">
-                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_05.png"
-                                        alt="feature-image">
+                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_05.png" alt="feature-image">
                                 </div>
 
                                 <!-- Text -->
@@ -224,7 +219,7 @@
                                     <h6 class="s-22 w-700">Myntra</h6>
                                     <p>Myntra seller account management services offer extensive assistance,
                                         encompassing Myntra account setup, brand
-                                        enrollment, product cataloging, and Myntra advertisement/CPC/vCPM supervision.
+                                        enrollment, product cataloging, and Myntra advertisement/CPC supervision.
                                     </p>
                                 </div>
                             </div>
@@ -235,8 +230,7 @@
                             <div class="fbox-2 fb-3 wow fadeInUp">
                                 <!-- Image -->
                                 <div class="fbox-img gr--whitesmoke h-175">
-                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_06.png"
-                                        alt="feature-image">
+                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_06.png" alt="feature-image">
                                 </div>
 
                                 <!-- Text -->
@@ -262,67 +256,53 @@
                     <div class="col text-center">
                         <div class="owl-carousel brands-carousel-6">
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_1.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_1.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_2.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_2.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_4.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_4.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_5.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_5.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_6.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_6.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_7.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_7.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_8.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_8.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_9.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_9.png" alt="partner-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_10.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_10.png" alt="partner-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_11.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_11.png" alt="partner-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_12.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_12.png" alt="partner-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_13.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_13.png" alt="partner-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_14.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_14.png" alt="partner-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img"
-                                        src="assets/images/partner/service_15.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_15.png" alt="partner-logo"></a>
                             </div>
                         </div>
                     </div>
@@ -675,17 +655,15 @@
                                                 <span class="flaticon-shopping-cart"></span>
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
-                                                        transform="translate(100 100)" />
+                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
 
                                         <!-- Text -->
                                         <div class="fbox-txt">
-                                            <h5 class="s-19 w-700">E-com Sol</h5>
-                                            <p>Streamlined E-commerce solutions for online success
+                                            <h5 class="s-19 w-700">E-Com <br> Solution</h5>
+                                            <p>E-commerce solutions for online
                                             </p>
                                         </div>
                                     </div>
@@ -699,9 +677,7 @@
                                                 <span class="flaticon-analytics-1"></span>
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
-                                                        transform="translate(100 100)" />
+                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
@@ -727,9 +703,7 @@
 
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
-                                                        transform="translate(100 100)" />
+                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
@@ -737,7 +711,7 @@
                                         <!-- Text -->
                                         <div class="fbox-txt">
                                             <h5 class="s-19 w-700">Amazon Seller Services</h5>
-                                            <p>Tailored solutions for Amazon sellers' success.
+                                            <p>Tailored solutions for Amazon sellers.
                                             </p>
                                         </div>
                                     </div>
@@ -753,9 +727,7 @@
 
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
-                                                        transform="translate(100 100)" />
+                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
                                                 </svg>
 
                                             </div>
@@ -787,9 +759,7 @@
                                                 <span class="flaticon-investor"></span>
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
-                                                        transform="translate(100 100)" />
+                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
@@ -811,9 +781,7 @@
                                                 <span class="flaticon-search-engine-1"></span>
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
-                                                        transform="translate(100 100)" />
+                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
@@ -838,9 +806,7 @@
                                                 <span class="flaticon-tech-support"></span>
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
-                                                        transform="translate(100 100)" />
+                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
@@ -861,17 +827,15 @@
                                                 <span class="flaticon-around-the-world"></span>
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path
-                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
-                                                        transform="translate(100 100)" />
+                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
 
                                         <!-- Text -->
                                         <div class="fbox-txt">
-                                            <h5 class="s-19 w-700">Web Dev</h5>
-                                            <p>Expert website development services for your digital presence.
+                                            <h5 class="s-19 w-700">Web </b> Development</h5>
+                                            <p>Website development services for your digital presence.
                                             </p>
                                         </div>
                                     </div>
@@ -985,104 +949,88 @@
                     <div class="row">
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_1.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_1.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_2.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_2.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_3.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_3.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_4.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_4.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_5.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_5.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_6.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_6.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_7.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_7.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_8.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_8.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_9.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_9.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_10.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_10.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_11.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_11.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_12.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_12.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_13.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_13.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_14.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_14.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_15.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_15.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/our_client/client_logo_16.png"
-                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_16.png" style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                     </div>
@@ -1093,7 +1041,7 @@
                 <div class="row">
                     <div class="col">
                         <div class="more-btn text-center mt-60 wow fadeInUp">
-                            <a href="#" class="btn btn--tra-black hover--theme">View all</a>
+                            <a href="about.php" class="btn btn--tra-black hover--theme">View all</a>
                         </div>
                     </div>
                 </div>
@@ -1113,12 +1061,12 @@
                                 <div class="statistic-block">
                                     <!-- Digit -->
                                     <div class="statistic-block-digit text-center">
-                                        <h2 class="s-46 statistic-number"><span class="count-element">89</span>k</h2>
+                                        <h2 class="s-46 statistic-number"><span class="count-element">24</span>k</h2>
                                     </div>
 
                                     <!-- Text -->
                                     <div class="statistic-block-txt color--grey">
-                                        <p class="p-md">Happy clients: Committed to long-term success.</p>
+                                        <p class="p-md">Committed to long-term success.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1131,7 +1079,7 @@
                                 <div class="statistic-block">
                                     <!-- Digit -->
                                     <div class="statistic-block-digit text-center">
-                                        <h2 class="s-46 statistic-number"><span class="count-element">76</span>%</h2>
+                                        <h2 class="s-46 statistic-number"><span class="count-element">82</span>%</h2>
                                     </div>
 
                                     <!-- Text -->
@@ -1151,7 +1099,7 @@
                                     <!-- Digit -->
                                     <div class="statistic-block-digit text-center">
                                         <h2 class="s-46 statistic-number">
-                                            <span class="count-element">4</span>.<span class="count-element">93</span>K
+                                            <span class="count-element">14</span>.<span class="count-element">93</span>K
                                         </h2>
                                     </div>
 
@@ -1196,11 +1144,10 @@
                                 <div class="review-txt">
                                     <h2 class="s-20 w-700">Best Services Provider</h2>
                                     <!-- Text -->
-                                    <p>
-                                        Thank you for taking care of my Amazon account, optimizing products, managing
-                                        listings, planning inventory, and boosting
-                                        sales. Your dedication and expertise are greatly valued in our successful
-                                        collaboration
+                                    <p> I wanted to thank you for the excellent service you provided during our tenure
+                                        from last 3 years collaboration for my sellers account on Amazon. Your attention
+                                        to detail and prompt responses made the entire process smooth and efficient.
+                                        Keep up the great work
                                     </p>
 
                                     <!-- Author -->
@@ -1208,14 +1155,13 @@
 
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
                                         <div class="review-author">
-                                            <h6 class="s-18 w-700">Pratap Singh, India</h6>
-                                            <p class="p-sm">OCTOFUNESE</p>
+                                            <h6 class="s-18 w-700">Anuradha, India</h6>
+                                            <p class="p-sm">Its Cheese</p>
                                         </div>
                                     </div> <!-- End Author -->
                                 </div> <!-- End Text -->
@@ -1228,25 +1174,26 @@
                                 <div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
                                 <!-- Text -->
                                 <div class="review-txt">
-                                    <h2 class="s-20 w-700">Account Management Service</h2>
+                                    <h2 class="s-20 w-700">Expertise in Account management and Advertisement.</h2>
                                     <!-- Text -->
                                     <p>
-                                        I appreciate the level of care and attention you have shown to my business and
-                                        the personalized approach you have taken
-                                        to understanding my unique needs.
+                                        I want to express my appreciation for the exceptional service provided by Be
+                                        Professional on E-Commerce platforms. When we connect with you there is a lot of
+                                        areas to work on like listing and its enhancement, complains managements and
+                                        also ad optimization in terms of ROI and ACOS. Thank you Be Professional for
+                                        delivering such a valuable service
                                     </p>
 
                                     <!-- Author -->
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
-                                            <h6 class="s-18 w-700">Sumit Gahlot, India</h6>
-                                            <p class="p-sm">Shri Ganesh Enterprises</p>
+                                            <h6 class="s-18 w-700">Vinod, India</h6>
+                                            <p class="p-sm">Riddhi Exports</p>
                                         </div>
                                     </div> <!-- End Author -->
                                 </div> <!-- End Text -->
@@ -1259,24 +1206,24 @@
                                 <div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
                                 <!-- Text -->
                                 <div class="review-txt">
-                                    <h2 class="s-20 w-700">Experience and Quick Response</h2>
+                                    <h2 class="s-20 w-700">Experienced team</h2>
                                     <!-- Text -->
                                     <p>
-                                        Very knowledgeable and helpful team. They always give me advice on how we can
-                                        increase sales on Amazon.
+                                        Your friendly interactions, behaviour & Very knowledgeable and helpful team and
+                                        comprehensive seller tools, and responsive team for managing my account have
+                                        been instrumental in growing my business.
                                     </p>
 
                                     <!-- Author -->
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
-                                            <h6 class="s-18 w-700">Amit, India</h6>
-                                            <p class="p-sm">A.K. OVERSEAS GOODS</p>
+                                            <h6 class="s-18 w-700"> Nitish Jha, India</h6>
+                                            <p class="p-sm">Gift & Gallery</p>
                                         </div>
                                     </div> <!-- End Author -->
                                 </div> <!-- End Text -->
@@ -1291,21 +1238,24 @@
                                 <div class="review-txt">
                                     <h2 class="s-20 w-700">Best SPN</h2>
                                     <!-- Text -->
-                                    <p>I Am very happy with the way of working.
+                                    <p>
+                                        my business across marketplaces. I have observed steady growth in my business in
+                                        terms of customers, sales, and brand awareness. I got proper work, suggestions,
+                                        and account reports from time to time. I am thankful to the team for such great
+                                        support.
                                     </p>
 
                                     <!-- Author -->
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
                                         <div class="review-author">
-                                            <h6 class="s-18 w-700">Akram Ali, India</h6>
-                                            <p class="p-sm">MADARI BROTHERS</p>
+                                            <h6 class="s-18 w-700"> Shantosh, India</h6>
+                                            <p class="p-sm">Shadow Etails</p>
                                         </div>
                                     </div> <!-- End Author -->
                                 </div> <!-- End Text -->
@@ -1318,24 +1268,26 @@
                                 <div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
                                 <!-- Text -->
                                 <div class="review-txt">
-                                    <h2 class="s-20 w-700">Really happy and satisfied</h2>
+                                    <h2 class="s-20 w-700">Satisfied with Support</h2>
                                     <!-- Text -->
                                     <p>
-                                        Work done properly on time.
+                                        I wanted to take a moment to thank your support team for their exceptional
+                                        assistance in resolving a recent issue with Premium A+ Cataloguing. Their prompt
+                                        response, clear communication, and dedication to resolving the issue beyond my
+                                        expectations. Thank you for your commitment to customer satisfaction.
                                     </p>
 
                                     <!-- Author -->
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
                                         <div class="review-author">
-                                            <h6 class="s-18 w-700">Kapil Dixit, India</h6>
-                                            <p class="p-sm">KAPIL'S RADIANCE</p>
+                                            <h6 class="s-18 w-700">TEAM GREEN, India</h6>
+                                            <p class="p-sm">TEAM GREEN INNOVATIONS PRIVATE LIMITED</p>
                                         </div>
                                     </div> <!-- End Author -->
                                 </div> <!-- End Text -->
@@ -1348,23 +1300,25 @@
                                 <div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
                                 <!-- Text -->
                                 <div class="review-txt">
-                                    <h2 class="s-20 w-700">Nice service with innovative Technology</h2>
+                                    <h2 class="s-20 w-700">Committed Team for The Sellers</h2>
                                     <!-- Text -->
                                     <p>
-                                        The fulfilling services that BE Professional Technology provides astound me.
-                                        After utilising their account management
-                                        services
+                                        Account management service is the best. Product visibility is increasing day by
+                                        day. Keep on doing such excellent creativity. I am really happy and satisfied
+                                        with the work. I really appreciated their work—good communication from the team.
+                                        And are getting a timely response. Also, sales are getting improved day by day.
+                                        always support solving every problem that we are facing. I am really thankful
+                                        for the teamwork.
                                         <!-- Author -->
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
-                                            <h6 class="s-18 w-700">Redsack Pvt. Ltd., India</h6>
-                                            <p class="p-sm">REDSACK PRIVATE LIMITED</p>
+                                            <h6 class="s-18 w-700"> Seikh Jeelani, India</h6>
+                                            <p class="p-sm">Doctor Thangs</p>
                                         </div>
                                     </div> <!-- End Author -->
                                 </div> <!-- End Text -->
@@ -1377,12 +1331,12 @@
                                 <div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
                                 <!-- Text -->
                                 <div class="review-txt">
-                                    <h2 class="s-20 w-700">Good Team Work</h2>
+                                    <h2 class="s-20 w-700">Account Management Service is the Best</h2>
                                     <!-- Text -->
                                     <p>
-                                        I appreciate the level of care and attention you have shown to my business and
-                                        the personalized approach you have taken
-                                        to understanding my unique needs.
+                                        Account management service is the best. Product visibility is increasing day by
+                                        day. Keep on doing such excellent creativity. I am really happy and satisfied
+                                        with the work of Team
                                     </p>
 
                                     <!-- Author -->
@@ -1390,14 +1344,13 @@
 
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
                                         <div class="review-author">
-                                            <h6 class="s-18 w-700">Chhabra Fabrications, India</h6>
-                                            <p class="p-sm">CHHABRA FABRICATIONS</p>
+                                            <h6 class="s-18 w-700"> GATRIM, India</h6>
+                                            <p class="p-sm">GATRIM HERBONATURAL BIOSCIENCES OPC PVT LTD</p>
                                         </div>
                                     </div> <!-- End Author -->
                                 </div> <!-- End Text -->
@@ -1413,9 +1366,8 @@
                                     <h2 class="s-20 w-700">Excellent services</h2>
                                     <!-- Text -->
                                     <p>
-                                        Account management service is the best. Product visibility is increasing day by
-                                        day. Keep on doing such excellent
-                                        creativity.
+                                        Good work! Your team has the natural ability to understand and feel what
+                                        customers are experiencing, and you are able to meet their needs effectively.
                                     </p>
 
                                     <!-- Author -->
@@ -1423,14 +1375,13 @@
 
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
                                         <div class="review-author">
-                                            <h6 class="s-18 w-700">HM TRADING COMPANY, India</h6>
-                                            <p class="p-sm">HM TRADING COMPANY</p>
+                                            <h6 class="s-18 w-700">Shyam, India</h6>
+                                            <p class="p-sm">Shyam Supplier</p>
                                         </div>
                                     </div> <!-- End Author -->
                                 </div> <!-- End Text -->
@@ -1443,12 +1394,14 @@
                                 <div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
                                 <!-- Text -->
                                 <div class="review-txt">
-                                    <h2 class="s-20 w-700">Good work excellent creativity</h2>
+                                    <h2 class="s-20 w-700">Good work and having excellent creativity</h2>
                                     <!-- Text -->
                                     <p>
-                                        Account management service is the best. Product visibility is increasing day by
-                                        day. Keep on doing such excellent
-                                        creativity.
+                                        very good service provider. It has been a very long time since I was searching
+                                        for a good service provider and then I found this one. It's a very good one,
+                                        everyone must give this a try. The time-to-time updates, their proper responds
+                                        were so on point. Overall, it has been a really good experience with them. I
+                                        would definitely recommend everyone to try this. Thanks
                                     </p>
 
                                     <!-- Author -->
@@ -1456,14 +1409,13 @@
 
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
                                         <div class="review-author">
-                                            <h6 class="s-18 w-700">Nidhi, Indore</h6>
-                                            <p class="p-sm">TANU HARDWARE STORE</p>
+                                            <h6 class="s-18 w-700">Adorma international LLP, Indore</h6>
+                                            <p class="p-sm">Adorma International LLP</p>
                                         </div>
                                     </div> <!-- End Author -->
                                 </div> <!-- End Text -->
@@ -1478,23 +1430,23 @@
                                     <h2 class="s-20 w-700">Satisfactory Service</h2>
                                     <!-- Text -->
                                     <p>
-                                        I am sincerely grateful for the exceptional services you have provided team
-                                        PURPLEWINGS. It's rare to come across a team
-                                        that consistently goes above and beyond to deliver an outstanding customer
-                                        experience.
+                                        Thank you for promptly resolving the issue with the incorrect product
+                                        categorization last week. Your quick action prevented potential disruptions to
+                                        sales. We appreciate the proactive approach you take in suggesting optimizations
+                                        to product listings and advertising campaigns. It demonstrates your commitment
+                                        to driving results.
                                     </p>
 
                                     <!-- Author -->
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
-                                            <h6 class="s-18 w-700">A.P, GORAKHPUR</h6>
-                                            <p class="p-sm">Arogya Prakashan</p>
+                                            <h6 class="s-18 w-700">Swapnil, GORAKHPUR</h6>
+                                            <p class="p-sm">Serveuttam</p>
                                         </div>
                                     </div> <!-- End Author -->
                                 </div> <!-- End Text -->
@@ -1509,21 +1461,20 @@
                                     <h2 class="s-20 w-700">Best Service Provider for amazon account</h2>
                                     <!-- Text -->
                                     <p>
-                                        Absolutely outstanding service! The team supports me in every manner I can to
-                                        provide the finest service for my account
+                                        Your attention to detail and proactive communication have significantly
+                                        contributed to the growth of our Amazon sales. Keep up the excellent work.
                                     </p>
 
                                     <!-- Author -->
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
-                                            <h6 class="s-18 w-700">Avyukta Crest, India</h6>
-                                            <p class="p-sm">AVYUKTA CREST</p>
+                                            <h6 class="s-18 w-700">Om, India</h6>
+                                            <p class="p-sm">Omcrafts</p>
                                         </div>
                                     </div> <!-- End Author -->
                                 </div> <!-- End Text -->
@@ -1547,8 +1498,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1571,15 +1521,14 @@
                                         I highly recommend Be Professional to anyone in search of top-notch exceptional
                                         customer service. They have truly earned
                                         my trust and loyalty, and I look forward to continuing my association with them
-                                        in the futursssse.
+                                        in the future.
                                     </p>
 
                                     <!-- Author -->
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1608,8 +1557,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1638,8 +1586,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1667,8 +1614,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1697,8 +1643,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1728,8 +1673,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1757,8 +1701,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1786,8 +1729,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1817,8 +1759,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1848,8 +1789,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1877,8 +1817,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1908,8 +1847,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1919,6 +1857,35 @@
                                     </div> <!-- End Author -->
                                 </div> <!-- End Text -->
                             </div> <!-- END TESTIMONIAL #24 -->
+                            <!-- TESTIMONIAL #25 -->
+                            <div class="review-1 bg--white-100 block-shadow r-08">
+                                <!-- Quote Icon -->
+                                <div class="review-ico ico-65"><span class="flaticon-quote"></span></div>
+                                <!-- Text -->
+                                <div class="review-txt">
+                                    <h2 class="s-20 w-700">Satisfied with the work</h2>
+                                    <!-- Text -->
+                                    <p>
+                                        "I appreciate your commitment to ensuring our Amazon listings are optimized for
+                                        maximum visibility and conversion. Your efforts have significantly boosted our
+                                        sales. We value your expertise in navigating Amazon's platform and with your
+                                        support we have explored new growth opportunities.
+                                    </p>
+
+                                    <!-- Author -->
+                                    <div class="author-data clearfix">
+                                        <!-- Avatar -->
+                                        <div class="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                        </div>
+                                        <!-- Data -->
+                                        <div class="review-author">
+                                            <h6 class="s-18 w-700"> SS Masala, India</h6>
+                                            <p class="p-sm">SS Masals</p>
+                                        </div>
+                                    </div> <!-- End Author -->
+                                </div> <!-- End Text -->
+                            </div> <!-- END TESTIMONIAL #25 -->
                         </div>
                     </div>
                 </div> <!-- END TESTIMONIALS CONTENT -->
@@ -1953,7 +1920,7 @@
                                         E-Commerce platform.</p>
 
                                     <!-- Button -->
-                                    <a href="signup-1.html" class="btn r-04 btn--theme hover--tra-white">Quick
+                                    <a href="contact.php" class="btn r-04 btn--theme hover--tra-white">Quick
                                         Queries</a>
                                 </div>
                             </div> <!-- END BANNER-3 TEXT -->
@@ -1962,121 +1929,6 @@
                 </div> <!-- END BANNER-3 WRAPPER -->
             </div> <!-- End container -->
         </section> <!-- END BANNER-3 -->
-
-        <!-- MODAL WINDOW (NEWSLETTER FORM)
-        ======================================== -->
-        <div id="modal-2" class="modal fade" tabindex="-1">
-            <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                    <!-- CLOSE BUTTON -->
-                    <button type="button" class="btn-close ico-10 white-color" data-bs-dismiss="modal"
-                        aria-label="Close">
-                        <span class="flaticon-cancel"></span>
-                    </button>
-                    <!-- MODAL CONTENT -->
-                    <div class="modal-body text-center">
-                        <!-- IMAGE -->
-                        <div class="modal-body-img">
-                            <img class="img-fluid" src="assets/images/modal-newsletter-violet.jpg" alt="content-image">
-                        </div>
-                        <!-- NEWSLETTER FORM -->
-                        <div class="modal-body-content">
-                            <!-- Title -->
-                            <h5 class="s-24 w-700">Stay up to date with our news, ideas and updates</h5>
-                            <!-- Form -->
-                            <form class="newsletter-form">
-                                <div class="input-group">
-                                    <input type="email" autocomplete="off" class="form-control"
-                                        placeholder="Your email address" required id="s-email">
-                                    <span class="input-group-btn">
-                                        <button type="submit" class="btn btn--theme hover--theme">Subscribe Now</button>
-                                    </span>
-                                </div>
-                                <!-- Newsletter Form Notification -->
-                                <label for="s-email" class="form-notification"></label>
-                            </form>
-                        </div> <!-- END NEWSLETTER FORM -->
-                    </div> <!-- END MODAL CONTENT -->
-                </div>
-            </div>
-        </div> <!-- END MODAL WINDOW (NEWSLETTER FORM) -->
-
-
-        <!-- MODAL WINDOW (REQUEST FORM)
-        ======================================== -->
-        <div id="modal-3" class="modal auto-off fade" tabindex="-1" role="dialog" aria-labelledby="modal-3">
-            <div class="modal-dialog modal-xl modal-dialog-centered">
-                <div class="modal-content">
-
-
-                    <!-- CLOSE BUTTON -->
-                    <button type="button" class="btn-close ico-10 white-color" data-bs-dismiss="modal"
-                        aria-label="Close">
-                        <span class="flaticon-cancel"></span>
-                    </button>
-
-
-                    <!-- MODAL CONTENT -->
-                    <div class="modal-body">
-                        <div class="container">
-                            <div class="row">
-
-
-                                <!-- BACKGROUND IMAGE -->
-                                <div class="col-md-5 bg-img d-none d-sm-flex align-items-end"></div>
-
-
-                                <!-- REQUEST FORM -->
-                                <div class="col-md-7">
-                                    <div class="modal-body-content">
-
-                                        <!-- TEXT -->
-                                        <div class="request-form-title">
-
-                                            <!-- Title 	-->
-                                            <h3 class="s-28 w-700">Get started for Free!</h3>
-
-                                            <!-- Text -->
-                                            <p class="color--grey">Aliquam augue suscipit, luctus neque purus ipsum
-                                                neque dolor primis libero
-                                            </p>
-
-                                        </div>
-
-                                        <!-- FORM -->
-                                        <form name="requestForm" class="row request-form">
-
-                                            <!-- Form Input -->
-                                            <div class="col-md-12">
-                                                <input type="text" name="name" class="form-control name"
-                                                    placeholder="Enter Your Name*" autocomplete="off" required>
-                                            </div>
-
-                                            <!-- Form Input -->
-                                            <div class="col-md-12">
-                                                <input type="email" name="email" class="form-control email"
-                                                    placeholder="Enter Your Email*" autocomplete="off" required>
-                                            </div>
-
-                                            <!-- Form Button -->
-                                            <div class="col-md-12 form-btn">
-                                                <button type="submit" class="btn btn--theme hover--tra-black submit">Get
-                                                    Started Now</button>
-                                            </div>
-
-                                            <!-- Form Message -->
-                                            <div class="col-md-12 request-form-msg">
-                                                <span class="loading"></span>
-                                            </div>
-                                        </form> <!-- END FORM -->
-                                    </div>
-                                </div> <!-- END REQUEST FORM -->
-                            </div>
-                        </div>
-                    </div> <!-- END MODAL CONTENT -->
-                </div>
-            </div>
-        </div> <!-- END MODAL WINDOW (REQUEST FORM) -->
 
         <!-- END SECTION -->
 
@@ -2109,17 +1961,17 @@
 
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
-    var Tawk_API = Tawk_API || {},
-        Tawk_LoadStart = new Date();
-    (function() {
-        var s1 = document.createElement("script"),
-            s0 = document.getElementsByTagName("script")[0];
-        s1.async = true;
-        s1.src = 'https://embed.tawk.to/65b7989f8d261e1b5f591afa/1hlaioctf';
-        s1.charset = 'UTF-8';
-        s1.setAttribute('crossorigin', '*');
-        s0.parentNode.insertBefore(s1, s0);
-    })();
+        var Tawk_API = Tawk_API || {},
+            Tawk_LoadStart = new Date();
+        (function() {
+            var s1 = document.createElement("script"),
+                s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/65b7989f8d261e1b5f591afa/1hlaioctf';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
     </script>
     <!--End of Tawk.to Script-->
 
@@ -2143,26 +1995,26 @@
 	    </script> -->
 
     <script>
-    $(function() {
-        $(".switch").click(function() {
-            $("body").toggleClass("theme--dark");
+        $(function() {
+            $(".switch").click(function() {
+                $("body").toggleClass("theme--dark");
+                if ($("body").hasClass("theme--dark")) {
+                    $(".switch").text("Light Mode");
+                } else {
+                    $(".switch").text("Dark Mode");
+                }
+            });
+        });
+    </script>
+
+    <script>
+        $(document).ready(function() {
             if ($("body").hasClass("theme--dark")) {
                 $(".switch").text("Light Mode");
             } else {
                 $(".switch").text("Dark Mode");
             }
         });
-    });
-    </script>
-
-    <script>
-    $(document).ready(function() {
-        if ($("body").hasClass("theme--dark")) {
-            $(".switch").text("Light Mode");
-        } else {
-            $(".switch").text("Dark Mode");
-        }
-    });
     </script>
 </body>
 

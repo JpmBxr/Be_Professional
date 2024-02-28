@@ -20,7 +20,7 @@ if (mysqli_connect_errno()) {
 // Assuming your form data is sent using POST method
 $name = mysqli_real_escape_string($conn, $_POST['name']);
 $email = mysqli_real_escape_string($conn, $_POST['email']);
-$mobileno = mysqli_real_escape_string($conn, $_POST['mobile']);
+$mobile = mysqli_real_escape_string($conn, $_POST['mobile']);
 $subject = mysqli_real_escape_string($conn, $_POST['subject']);
 $message = mysqli_real_escape_string($conn, $_POST['message']);
 
@@ -31,7 +31,7 @@ $emailBody = "
 <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <title>The Purplewings - Contact Form-Query</title>
+    <title>Be Professional - Contact Form-Query</title>
     <!-- Your inline styles here -->
     <style>
         body {
@@ -45,7 +45,7 @@ $emailBody = "
         }
 
         .success {
-            color: #69418a;
+            color: #FC6107;
             margin: 10px 0;
             font-size: 24px;
             font-weight: bold;
@@ -92,7 +92,7 @@ $emailBody = "
             </tr>
             <tr>
                 <th>Mobile</th>
-                <td>:- $mobileno</td>
+                <td>:- $mobile</td>
             </tr>
             <tr>
                 <th>Subject</th>
@@ -112,7 +112,7 @@ $emailBody = "
 $sql = "INSERT INTO contact_info (name, email, mobile, subject, message) VALUES (?, ?, ?, ?, ?)";
 
 $stmt = $conn->prepare($sql);
-$stmt->bind_param("sssss", $name, $email, $mobileno, $subject, $message);
+$stmt->bind_param("sssss", $name, $email, $mobile, $subject, $message);
 
 $response = array(); // Initialize response array
 
@@ -126,29 +126,28 @@ if ($stmt->execute()) {
         // Server settings
         $mail->SMTPDebug = 0; // Disable debug output
         $mail->isSMTP();
-        $mail->Host = 'sandbox.smtp.mailtrap.io';
+        $mail->Host = 'send.one.com';
         $mail->SMTPAuth = true;
-        $mail->Username = '352d29b783f3f1';
-        $mail->Password = 'f2d927c523e2da';
+        $mail->Username = 'join@beprofessional.in';
+        $mail->Password = 'join#@$354';
         $mail->SMTPSecure = 'tls';
-        $mail->Port = 2525;
+        $mail->Port = 465;
 
         // Recipients
-        $mail->setFrom('zeeshan.mymail@gmail.com');
-        $mail->addAddress('lovetojpm@gmail.com');
+        $mail->setFrom('join@beprofessional.in');
+        $mail->addAddress('website@beprofessional.in');
 
         // Content
         $mail->isHTML(true);
-        $mail->Subject = 'The Purplewings - Contact Form-Query';
+        $mail->Subject = 'Be Professional - Contact Form-Query';
         $mail->Body = $emailBody;
 
         $mail->send();
-        
+
         // Data inserted and email sent successfully
         $response = array("success" => true, "message" => "Thanks for Your Message!");
     } catch (Exception $e) {
-        $response = array("success" => false,"message" => "Sorry, we couldn't send the email. Please try again later. If the problem persists, contact support. Error: " . $mail->ErrorInfo);
-
+        $response = array("success" => false, "message" => "Sorry, we couldn't send the email. Please try again later. If the problem persists, contact support. Error: " . $mail->ErrorInfo);
     }
 } else {
     // Error in database operation

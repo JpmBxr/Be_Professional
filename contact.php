@@ -4,12 +4,6 @@
 <?php require('partials/head.php') ?>
 
 <body>
-    <!-- PRELOADER SPINNER
-		============================================= -->
-    <div id="loading" class="loading--theme">
-        <div id="loading-center"><span class="loader"></span></div>
-    </div>
-
     <!-- PAGE CONTENT
 		============================================= -->
     <div id="page" class="page font--jakarta">
@@ -43,7 +37,7 @@
                 <div class="row justify-content-center">
                     <div class="col-md-11 col-lg-10 col-xl-8">
                         <div class="form-holder">
-                            <form  id="contact-form" method="POST" class="row contact-form" onsubmit="return validateForm()">
+                            <form id="contact-form" method="POST" class="row contact-form" onsubmit="return validateForm()">
 
                                 <!-- Contact Form Input -->
                                 <div class="col-md-12">

@@ -128,104 +128,79 @@
                         <div class="owl-carousel brands-carousel-6">
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p1.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p1.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p2.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p2.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p3.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p3.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p4.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p4.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p5.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p5.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p6.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p6.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p7.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p7.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p8.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p8.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p9.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p9.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p10.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p10.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p11.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p11.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p12.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p12.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p13.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p13.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p14.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p14.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p15.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p15.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p16.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p16.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p17.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p17.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p18.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p18.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p19.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p19.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p20.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p20.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p21.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p21.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p22.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p22.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p23.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p23.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p24.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p24.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p25.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p25.png" alt="brand-logo"></a>
                             </div>
                         </div>
                     </div>
@@ -237,104 +212,79 @@
                         <div class="owl-carousel brands-carousel-6">
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j1.jpg" alt=" brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j1.jpg" alt=" brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j2.jpg" alt=" brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j2.jpg" alt=" brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j3.jpg" alt=" brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j3.jpg" alt=" brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j4.jpg" alt=" brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j4.jpg" alt=" brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j5.jpg" alt=" brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j5.jpg" alt=" brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j6.jpg" alt=" brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j6.jpg" alt=" brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j7.jpg" alt=" brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j7.jpg" alt=" brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j8.jpg" alt=" brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j8.jpg" alt=" brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j9.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j9.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j10.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j10.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j11.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j11.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j12.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j12.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j13.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j13.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j14.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j14.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j15.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j15.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j16.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j16.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j17.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j17.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j18.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j18.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j19.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j19.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j20.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j20.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j21.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j21.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j22.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j22.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j23.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j23.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j24.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j24.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j25.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j25.jpg" alt="brand-logo"></a>
                             </div>
                         </div>
                     </div>
@@ -346,104 +296,79 @@
                         <div class="owl-carousel brands-carousel-6">
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p26.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p26.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p27.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p27.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p28.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p28.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p29.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p29.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p30.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p30.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p31.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p31.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p32.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p32.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p33.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p33.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p34.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p34.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p35.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p35.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p36.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p36.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p37.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p37.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p38.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p38.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p39.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p39.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p40.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p40.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p41.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p41.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p42.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p42.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p43.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p43.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p44.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p44.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p45.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p45.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p46.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p46.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p47.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p47.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p48.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p48.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p49.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p49.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p50.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p50.png" alt="brand-logo"></a>
                             </div>
                         </div>
                     </div>
@@ -455,128 +380,97 @@
                         <div class="owl-carousel brands-carousel-6">
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j26.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j26.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j27.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j27.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j28.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j28.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j29.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j29.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j30.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j30.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j31.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j31.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j32.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j32.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j33.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j33.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j34.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j34.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j35.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j35.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j36.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j36.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j37.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j37.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j38.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j38.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j39.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j39.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j40.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j40.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j41.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j41.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j42.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j42.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j43.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j43.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j44.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j44.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j45.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j45.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j46.jpeg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j46.jpeg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j47.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j47.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j48.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j48.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j49.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j49.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j50.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j50.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j51.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j51.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j52.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j52.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j53.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j53.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j54.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j54.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j55.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j55.jpg" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/jpg/brand_logo_j57.jpg" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/jpg/brand_logo_j57.jpg" alt="brand-logo"></a>
                             </div>
                         </div>
                     </div>
@@ -590,112 +484,85 @@
                         <div class="owl-carousel brands-carousel-6">
                             <!-- BRAND LOGO IMAGE -->
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p51.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p51.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p52.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p52.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p53.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p53.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p54.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p54.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p55.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p55.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p56.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p56.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p57.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p57.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p58.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p58.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p59.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p59.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p60.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p60.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p61.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p61.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p62.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p62.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p63.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p63.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p64.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p64.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p65.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p65.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p66.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p66.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p67.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p67.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p68.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p68.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p69.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p69.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p70.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p70.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p71.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p71.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p72.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p72.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p73.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p73.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p74.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p74.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p75.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p75.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p76.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p76.png" alt="brand-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;"
-                                        src="assets/images/brandLogoBP/png/brand_logo_p77.png" alt="brand-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img" style="width: 200px; height: 100px;" src="assets/images/brandLogoBP/png/brand_logo_p77.png" alt="brand-logo"></a>
                             </div>
                         </div>
                     </div>
@@ -734,8 +601,7 @@
 
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
@@ -770,8 +636,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -803,8 +668,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -839,8 +703,7 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png"
-                                                alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -940,8 +803,7 @@
                                     <h2 class="s-46 w-700">We can't wait to meet you</h2>
 
                                     <!-- Button -->
-                                    <a href="info@beprofessional.in"
-                                        class="btn r-04 btn--theme hover--theme">info@beprofessional.in</a>
+                                    <a href="info@beprofessional.in" class="btn r-04 btn--theme hover--theme">info@beprofessional.in</a>
                                 </div>
                             </div>
                         </div> <!-- End row -->
@@ -983,18 +845,23 @@
     <script src="assets/js/custom.js"></script>
 
     <!--Start of Tawk.to Script-->
+    <!--
+    site - https://dashboard.tawk.to/login
+    ID - join@beprofessional.in
+    Pass - Bp#@$354
+    -->
     <script type="text/javascript">
-    var Tawk_API = Tawk_API || {},
-        Tawk_LoadStart = new Date();
-    (function() {
-        var s1 = document.createElement("script"),
-            s0 = document.getElementsByTagName("script")[0];
-        s1.async = true;
-        s1.src = 'https://embed.tawk.to/65b7989f8d261e1b5f591afa/1hlaioctf';
-        s1.charset = 'UTF-8';
-        s1.setAttribute('crossorigin', '*');
-        s0.parentNode.insertBefore(s1, s0);
-    })();
+        var Tawk_API = Tawk_API || {},
+            Tawk_LoadStart = new Date();
+        (function() {
+            var s1 = document.createElement("script"),
+                s0 = document.getElementsByTagName("script")[0];
+            s1.async = true;
+            s1.src = 'https://embed.tawk.to/65df088e9131ed19d972d330/1hnnjisbk';
+            s1.charset = 'UTF-8';
+            s1.setAttribute('crossorigin', '*');
+            s0.parentNode.insertBefore(s1, s0);
+        })();
     </script>
     <!--End of Tawk.to Script-->
 
@@ -1018,26 +885,26 @@
 	    </script> -->
 
     <script>
-    $(function() {
-        $(".switch").click(function() {
-            $("body").toggleClass("theme--dark");
+        $(function() {
+            $(".switch").click(function() {
+                $("body").toggleClass("theme--dark");
+                if ($("body").hasClass("theme--dark")) {
+                    $(".switch").text("Light Mode");
+                } else {
+                    $(".switch").text("Dark Mode");
+                }
+            });
+        });
+    </script>
+
+    <script>
+        $(document).ready(function() {
             if ($("body").hasClass("theme--dark")) {
                 $(".switch").text("Light Mode");
             } else {
                 $(".switch").text("Dark Mode");
             }
         });
-    });
-    </script>
-
-    <script>
-    $(document).ready(function() {
-        if ($("body").hasClass("theme--dark")) {
-            $(".switch").text("Light Mode");
-        } else {
-            $(".switch").text("Dark Mode");
-        }
-    });
     </script>
 </body>
 

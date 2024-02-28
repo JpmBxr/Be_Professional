@@ -37,37 +37,56 @@
                 <div class="row justify-content-center">
                     <div class="col-md-11 col-lg-10 col-xl-8">
                         <div class="form-holder">
-                            <form id="contact-form" method="POST" class="row contact-form" onsubmit="return validateForm()">
+                            <form id="contact-form" method="POST" class="row contact-form"
+                                onsubmit="return validateForm()">
 
                                 <!-- Contact Form Input -->
                                 <div class="col-md-12">
                                     <p class="p-lg">Your Name: </p>
-                                    <input type="text" id="name" name="name" class="form-control custom-input name" placeholder="Please enter your Real Name" ondragover="return false" ondrop="return false" onpaste="return false" oninput="validateField('name')" required="">
+                                    <input type="text" id="name" name="name" class="form-control custom-input name"
+                                        placeholder="Please enter your Real Name" ondragover="return false"
+                                        ondrop="return false" onpaste="return false" oninput="validateField('name')"
+                                        required="">
                                 </div>
 
                                 <div class="col-md-12">
                                     <p class="p-lg">Your Mobile No.: </p>
-                                    <input type="tel" id="mobile" name="mobile" class="form-control custom-input mobile" placeholder="Please enter your Mobile No." ondragover="return false" ondrop="return false" onpaste="return false" maxlength="10" oninput="this.value = this.value.replace(/[^0-9]/g, '').slice(0, 10); validateField('mobile');" required="">
+                                    <input type="tel" id="mobile" name="mobile" class="form-control custom-input mobile"
+                                        placeholder="Please enter your Mobile No." ondragover="return false"
+                                        ondrop="return false" onpaste="return false" maxlength="10"
+                                        oninput="this.value = this.value.replace(/[^0-9]/g, '').slice(0, 10); validateField('mobile');"
+                                        required="">
                                 </div>
 
                                 <div class="col-md-12">
                                     <p class="p-lg">Your Subject: </p>
-                                    <input type="text" id="subject" name="subject" class="form-control custom-input subject" placeholder="Please enter your Subject" ondragover="return false" ondrop="return false" onpaste="return false" oninput="validateField('subject')" required="">
+                                    <input type="text" id="subject" name="subject"
+                                        class="form-control custom-input subject"
+                                        placeholder="Please enter your Subject" ondragover="return false"
+                                        ondrop="return false" onpaste="return false" oninput="validateField('subject')"
+                                        required="">
                                 </div>
 
                                 <div class="col-md-12">
                                     <p class="p-lg">Your Email Address: </p>
-                                    <input type="text" id="email" name="email" class="form-control custom-input email" placeholder="Please carefully check your Email Address" ondragover="return false" ondrop="return false" onpaste="return false" oninput="validateField('email')" required="">
+                                    <input type="text" id="email" name="email" class="form-control custom-input email"
+                                        placeholder="Please carefully check your Email Address"
+                                        ondragover="return false" ondrop="return false" onpaste="return false"
+                                        oninput="validateField('email')" required="">
                                 </div>
 
                                 <div class="col-md-12">
                                     <p class="p-lg">Explain your question in details: </p>
-                                    <textarea id="message" name="message" class="form-control custom-input message" rows="6" placeholder="I have a problem with..." ondragover="return false" ondrop="return false" onpaste="return false" oninput="validateField('message')" required=""></textarea>
+                                    <textarea id="message" name="message" class="form-control custom-input message"
+                                        rows="6" placeholder="I have a problem with..." ondragover="return false"
+                                        ondrop="return false" onpaste="return false" oninput="validateField('message')"
+                                        required=""></textarea>
                                 </div>
 
                                 <!-- Contact Form Button -->
                                 <div class="col-md-12 mt-15 form-btn text-right">
-                                    <button type="submit" id="submitBtn" class="btn btn--theme hover--theme submit">Submit
+                                    <button type="submit" id="submitBtn"
+                                        class="btn btn--theme hover--theme submit">Submit
                                         Request</button>
                                 </div>
 
@@ -129,18 +148,23 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
     <!--Start of Tawk.to Script-->
+    <!--
+    site - https://dashboard.tawk.to/login
+    ID - join@beprofessional.in
+    Pass - Bp#@$354
+    -->
     <script type="text/javascript">
-        var Tawk_API = Tawk_API || {},
-            Tawk_LoadStart = new Date();
-        (function() {
-            var s1 = document.createElement("script"),
-                s0 = document.getElementsByTagName("script")[0];
-            s1.async = true;
-            s1.src = 'https://embed.tawk.to/65b7989f8d261e1b5f591afa/1hlaioctf';
-            s1.charset = 'UTF-8';
-            s1.setAttribute('crossorigin', '*');
-            s0.parentNode.insertBefore(s1, s0);
-        })();
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/65df088e9131ed19d972d330/1hnnjisbk';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
     </script>
     <!--End of Tawk.to Script-->
 
@@ -162,26 +186,26 @@
 	</script> -->
 
     <script>
-        $(function() {
-            $(".switch").click(function() {
-                $("body").toggleClass("theme--dark");
-                if ($("body").hasClass("theme--dark")) {
-                    $(".switch").text("Light Mode");
-                } else {
-                    $(".switch").text("Dark Mode");
-                }
-            });
-        });
-    </script>
-
-    <script>
-        $(document).ready(function() {
+    $(function() {
+        $(".switch").click(function() {
+            $("body").toggleClass("theme--dark");
             if ($("body").hasClass("theme--dark")) {
                 $(".switch").text("Light Mode");
             } else {
                 $(".switch").text("Dark Mode");
             }
         });
+    });
+    </script>
+
+    <script>
+    $(document).ready(function() {
+        if ($("body").hasClass("theme--dark")) {
+            $(".switch").text("Light Mode");
+        } else {
+            $(".switch").text("Dark Mode");
+        }
+    });
     </script>
 </body>
 

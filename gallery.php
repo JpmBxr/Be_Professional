@@ -189,13 +189,15 @@
                     <div class="col-md-12">
                         <nav aria-label="Page navigation">
                             <ul class="pagination ico-20 justify-content-center">
-                                <li class="page-item disabled"><a class="page-link" href="#" tabindex="-1"><span class="flaticon-back"></span></a>
+                                <li class="page-item disabled"><a class="page-link" href="#" tabindex="-1"><span
+                                            class="flaticon-back"></span></a>
                                 </li>
                                 <li class="page-item active" aria-current="page"><a class="page-link" href="#">1</a>
                                 </li>
                                 <li class="page-item"><a class="page-link" href="#">2</a></li>
                                 <li class="page-item"><a class="page-link" href="#">3</a></li>
-                                <li class="page-item"><a class="page-link" href="#" aria-label="Next"><span class="flaticon-next"></span></a></li>
+                                <li class="page-item"><a class="page-link" href="#" aria-label="Next"><span
+                                            class="flaticon-next"></span></a></li>
                             </ul>
                         </nav>
                     </div>
@@ -219,7 +221,8 @@
                                     <h2 class="s-46 w-700">We can't wait to meet you</h2>
 
                                     <!-- Button -->
-                                    <a href="info@beprofessional.in" class="btn r-04 btn--theme hover--theme">info@beprofessional.in</a>
+                                    <a href="info@beprofessional.in"
+                                        class="btn r-04 btn--theme hover--theme">info@beprofessional.in</a>
                                 </div>
                             </div>
                         </div> <!-- End row -->
@@ -261,18 +264,23 @@
     <script src="assets/js/custom.js"></script>
 
     <!--Start of Tawk.to Script-->
+    <!--
+    site - https://dashboard.tawk.to/login
+    ID - join@beprofessional.in
+    Pass - Bp#@$354
+    -->
     <script type="text/javascript">
-        var Tawk_API = Tawk_API || {},
-            Tawk_LoadStart = new Date();
-        (function() {
-            var s1 = document.createElement("script"),
-                s0 = document.getElementsByTagName("script")[0];
-            s1.async = true;
-            s1.src = 'https://embed.tawk.to/65b7989f8d261e1b5f591afa/1hlaioctf';
-            s1.charset = 'UTF-8';
-            s1.setAttribute('crossorigin', '*');
-            s0.parentNode.insertBefore(s1, s0);
-        })();
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/65df088e9131ed19d972d330/1hnnjisbk';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
     </script>
     <!--End of Tawk.to Script-->
 
@@ -296,26 +304,26 @@
 	    </script> -->
 
     <script>
-        $(function() {
-            $(".switch").click(function() {
-                $("body").toggleClass("theme--dark");
-                if ($("body").hasClass("theme--dark")) {
-                    $(".switch").text("Light Mode");
-                } else {
-                    $(".switch").text("Dark Mode");
-                }
-            });
-        });
-    </script>
-
-    <script>
-        $(document).ready(function() {
+    $(function() {
+        $(".switch").click(function() {
+            $("body").toggleClass("theme--dark");
             if ($("body").hasClass("theme--dark")) {
                 $(".switch").text("Light Mode");
             } else {
                 $(".switch").text("Dark Mode");
             }
         });
+    });
+    </script>
+
+    <script>
+    $(document).ready(function() {
+        if ($("body").hasClass("theme--dark")) {
+            $(".switch").text("Light Mode");
+        } else {
+            $(".switch").text("Dark Mode");
+        }
+    });
     </script>
 </body>
 

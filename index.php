@@ -130,7 +130,8 @@
                             <div class="fbox-2 fb-1 wow fadeInUp">
                                 <!-- Image -->
                                 <div class="fbox-img gr--whitesmoke h-175">
-                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_01.png" alt="feature-image">
+                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_01.png"
+                                        alt="feature-image">
                                 </div>
 
                                 <!-- Text -->
@@ -151,7 +152,8 @@
 
                                 <!-- Image -->
                                 <div class="fbox-img gr--whitesmoke h-175">
-                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_02.png" alt="feature-image">
+                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_02.png"
+                                        alt="feature-image">
                                 </div>
 
                                 <!-- Text -->
@@ -170,7 +172,8 @@
                             <div class="fbox-2 fb-3 wow fadeInUp">
                                 <!-- Image -->
                                 <div class="fbox-img gr--whitesmoke h-175">
-                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_03.png" alt="feature-image">
+                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_03.png"
+                                        alt="feature-image">
                                 </div>
 
                                 <!-- Text -->
@@ -193,7 +196,8 @@
                             <div class="fbox-2 fb-1 wow fadeInUp">
                                 <!-- Image -->
                                 <div class="fbox-img gr--whitesmoke h-175">
-                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_04.png" alt="feature-image">
+                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_04.png"
+                                        alt="feature-image">
                                 </div>
 
                                 <!-- Text -->
@@ -211,7 +215,8 @@
 
                                 <!-- Image -->
                                 <div class="fbox-img gr--whitesmoke h-175">
-                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_05.png" alt="feature-image">
+                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_05.png"
+                                        alt="feature-image">
                                 </div>
 
                                 <!-- Text -->
@@ -230,7 +235,8 @@
                             <div class="fbox-2 fb-3 wow fadeInUp">
                                 <!-- Image -->
                                 <div class="fbox-img gr--whitesmoke h-175">
-                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_06.png" alt="feature-image">
+                                    <img class="img-fluid light-theme-img" src="assets/images/service/b_06.png"
+                                        alt="feature-image">
                                 </div>
 
                                 <!-- Text -->
@@ -256,53 +262,67 @@
                     <div class="col text-center">
                         <div class="owl-carousel brands-carousel-6">
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_1.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_1.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_2.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_2.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_4.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_4.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_5.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_5.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_6.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_6.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_7.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_7.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_8.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_8.png" alt="partner-logo"></a>
                             </div>
 
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_9.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_9.png" alt="partner-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_10.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_10.png" alt="partner-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_11.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_11.png" alt="partner-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_12.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_12.png" alt="partner-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_13.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_13.png" alt="partner-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_14.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_14.png" alt="partner-logo"></a>
                             </div>
                             <div class="brand-logo">
-                                <a href="#"><img class="img-fluid light-theme-img" src="assets/images/partner/service_15.png" alt="partner-logo"></a>
+                                <a href="#"><img class="img-fluid light-theme-img"
+                                        src="assets/images/partner/service_15.png" alt="partner-logo"></a>
                             </div>
                         </div>
                     </div>
@@ -655,7 +675,9 @@
                                                 <span class="flaticon-shopping-cart"></span>
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                                    <path
+                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
+                                                        transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
@@ -677,7 +699,9 @@
                                                 <span class="flaticon-analytics-1"></span>
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                                    <path
+                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
+                                                        transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
@@ -703,7 +727,9 @@
 
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                                    <path
+                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
+                                                        transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
@@ -727,7 +753,9 @@
 
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                                    <path
+                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
+                                                        transform="translate(100 100)" />
                                                 </svg>
 
                                             </div>
@@ -759,7 +787,9 @@
                                                 <span class="flaticon-investor"></span>
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                                    <path
+                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
+                                                        transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
@@ -781,7 +811,9 @@
                                                 <span class="flaticon-search-engine-1"></span>
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                                    <path
+                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
+                                                        transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
@@ -806,7 +838,9 @@
                                                 <span class="flaticon-tech-support"></span>
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                                    <path
+                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
+                                                        transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
@@ -827,7 +861,9 @@
                                                 <span class="flaticon-around-the-world"></span>
                                                 <!-- Shape -->
                                                 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-                                                    <path d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z" transform="translate(100 100)" />
+                                                    <path
+                                                        d="M69.8,-23C76.3,-2.7,57.6,25.4,32.9,42.8C8.1,60.3,-22.7,67,-39.1,54.8C-55.5,42.7,-57.5,11.7,-48.6,-11.9C-39.7,-35.5,-19.8,-51.7,5.9,-53.6C31.7,-55.6,63.3,-43.2,69.8,-23Z"
+                                                        transform="translate(100 100)" />
                                                 </svg>
                                             </div>
                                         </div> <!-- End Icon -->
@@ -949,88 +985,104 @@
                     <div class="row">
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_1.png" style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_1.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_2.png" style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_2.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_3.png" style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_3.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_4.png" style="width: 200px; height: 100px;" alt="Client Logo">
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-3 col-6">
-                            <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_5.png" style="width: 200px; height: 100px;" alt="Client Logo">
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_6.png" style="width: 200px; height: 100px;" alt="Client Logo">
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_7.png" style="width: 200px; height: 100px;" alt="Client Logo">
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_8.png" style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_4.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_9.png" style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_5.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_10.png" style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_6.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_11.png" style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_7.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_12.png" style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_8.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_13.png" style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_9.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_14.png" style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_10.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_15.png" style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_11.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                         <div class="col-md-3 col-6">
                             <!-- col-md-3 for desktop, col-6 for mobile -->
-                            <div class="brand-grid"><img src="assets/images/evi/slider_16.png" style="width: 200px; height: 100px;" alt="Client Logo">
+                            <div class="brand-grid"><img src="assets/images/evi/slider_12.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 col-6">
+                            <!-- col-md-3 for desktop, col-6 for mobile -->
+                            <div class="brand-grid"><img src="assets/images/evi/slider_13.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <!-- col-md-3 for desktop, col-6 for mobile -->
+                            <div class="brand-grid"><img src="assets/images/evi/slider_14.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <!-- col-md-3 for desktop, col-6 for mobile -->
+                            <div class="brand-grid"><img src="assets/images/evi/slider_15.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <!-- col-md-3 for desktop, col-6 for mobile -->
+                            <div class="brand-grid"><img src="assets/images/evi/slider_16.png"
+                                    style="width: 200px; height: 100px;" alt="Client Logo">
                             </div>
                         </div>
                     </div>
@@ -1155,7 +1207,8 @@
 
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
@@ -1188,7 +1241,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1218,7 +1272,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1249,7 +1304,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
@@ -1281,7 +1337,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
@@ -1313,7 +1370,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1344,7 +1402,8 @@
 
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
@@ -1375,7 +1434,8 @@
 
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
@@ -1409,7 +1469,8 @@
 
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
 
                                         <!-- Data -->
@@ -1441,7 +1502,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1469,7 +1531,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1498,7 +1561,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1528,7 +1592,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1557,7 +1622,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1586,7 +1652,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1614,7 +1681,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1643,7 +1711,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1673,7 +1742,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1701,7 +1771,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1729,7 +1800,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1759,7 +1831,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1789,7 +1862,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1817,7 +1891,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1847,7 +1922,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1876,7 +1952,8 @@
                                     <div class="author-data clearfix">
                                         <!-- Avatar -->
                                         <div class="review-avatar">
-                                            <img src="assets/images/review_author/review-author.png" alt="review-avatar">
+                                            <img src="assets/images/review_author/review-author.png"
+                                                alt="review-avatar">
                                         </div>
                                         <!-- Data -->
                                         <div class="review-author">
@@ -1960,21 +2037,25 @@
     <script src="assets/js/custom.js"></script>
 
     <!--Start of Tawk.to Script-->
+    <!--
+    site - https://dashboard.tawk.to/login
+    ID - join@beprofessional.in
+    Pass - Bp#@$354
+    -->
     <script type="text/javascript">
-        var Tawk_API = Tawk_API || {},
-            Tawk_LoadStart = new Date();
-        (function() {
-            var s1 = document.createElement("script"),
-                s0 = document.getElementsByTagName("script")[0];
-            s1.async = true;
-            s1.src = 'https://embed.tawk.to/65b7989f8d261e1b5f591afa/1hlaioctf';
-            s1.charset = 'UTF-8';
-            s1.setAttribute('crossorigin', '*');
-            s0.parentNode.insertBefore(s1, s0);
-        })();
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/65df088e9131ed19d972d330/1hnnjisbk';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
     </script>
     <!--End of Tawk.to Script-->
-
 
 
     <!-- <script>
@@ -1995,26 +2076,26 @@
 	    </script> -->
 
     <script>
-        $(function() {
-            $(".switch").click(function() {
-                $("body").toggleClass("theme--dark");
-                if ($("body").hasClass("theme--dark")) {
-                    $(".switch").text("Light Mode");
-                } else {
-                    $(".switch").text("Dark Mode");
-                }
-            });
-        });
-    </script>
-
-    <script>
-        $(document).ready(function() {
+    $(function() {
+        $(".switch").click(function() {
+            $("body").toggleClass("theme--dark");
             if ($("body").hasClass("theme--dark")) {
                 $(".switch").text("Light Mode");
             } else {
                 $(".switch").text("Dark Mode");
             }
         });
+    });
+    </script>
+
+    <script>
+    $(document).ready(function() {
+        if ($("body").hasClass("theme--dark")) {
+            $(".switch").text("Light Mode");
+        } else {
+            $(".switch").text("Dark Mode");
+        }
+    });
     </script>
 </body>
 

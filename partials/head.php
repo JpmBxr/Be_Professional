@@ -4,8 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="JpmBxr@2024">
-    <meta name="description" content="Be Professional - Service Provider Network | SPN, ensuring seamless and reliable network solutions for businesses of all scales. Trust in our robust infrastructure to optimize your digital operations and enhance your service delivery.">
-    <meta name="keywords" content="Be Professional, Be Professional | SPN Patna India, SPN solutions, Service Provider Network, Amazon India">
+    <meta name="description"
+        content="Be Professional - Service Provider Network | SPN, ensuring seamless and reliable network solutions for businesses of all scales. Trust in our robust infrastructure to optimize your digital operations and enhance your service delivery.">
+    <meta name="keywords"
+        content="Be Professional, Be Professional | SPN Patna India, SPN solutions, Service Provider Network, Amazon India">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- SITE TITLE -->
@@ -56,6 +58,4 @@
     <link href="assets/css/responsive.css" rel="stylesheet">
 
     <link href="assets/css/style.css" rel="stylesheet">
-
-    <link href="assets/css/styles.css" rel="stylesheet">
 </head>

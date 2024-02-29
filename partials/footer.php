@@ -12,8 +12,13 @@
                     <img class="footer-logo" src="assets/images/logo-pink.png" alt="footer-logo">
                     <img class="footer-logo-dark" src="assets/images/logo-pink-white.png" alt="footer-logo">
                 </div>
+                <!-- Add a container for the map -->
                 <div class="footer-info">
-                    <iframe async defer src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1798.985443821983!2d85.07344199820093!3d25.605883615381394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1707725562589!5m2!1sen!2sin" width="100%" height="120" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                     <!-- The map will be rendered here -->
+                     <iframe
+								src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d1798.985443821983!2d85.07344199820093!3d25.605883615381394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1707725562589!5m2!1sen!2sin"
+								width="100%" height="120" style="border:0;" allowfullscreen="" loading="lazy"
+								referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
 
@@ -166,3 +171,19 @@
         </div> <!-- END BOTTOM FOOTER -->
     </div> <!-- End container -->
 </footer> <!-- END FOOTER-3 -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

@@ -77,7 +77,7 @@
                 <h4 class="fw-semibold mb-20 pt-5 mt-xl-4">Team</h4>
                 <p class="mb-4">It appears that Harsh Vardhan possesses certification as a Service Provider Network
                     (SPN)
-                    professional, specializing in Amazon India. With more than 5 years of extensive experience,
+                    professional, specializing in Amazon India. With more than 8+ years of extensive experience,
                     Harsh Vardhan likely boasts a robust skill set in overseeing and enhancing service provider
                     networks,
                     particularly within the framework of Amazon's infrastructure and services.</p>

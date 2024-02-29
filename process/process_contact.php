@@ -6,12 +6,12 @@ use PHPMailer\PHPMailer\Exception;
 // Include PHPMailer autoloader
 require '../vendor/autoload.php';
 
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "";
+$username = "beprofessional_inbeprofessional";
+$password = "beprofessional";
 
 // Create connection
-$conn = mysqli_connect($servername, $username, $password, 'beprofessional');
+$conn = mysqli_connect($servername, $username, $password, 'beprofessional_inbeprofessional');
 
 if (mysqli_connect_errno()) {
     die("Connect failed: " . mysqli_connect_error());
@@ -131,7 +131,7 @@ if ($stmt->execute()) {
         $mail->Username = 'join@beprofessional.in';
         $mail->Password = 'join#@$354';
         $mail->SMTPSecure = 'tls';
-        $mail->Port = 465;
+        $mail->Port = 587;
 
         // Recipients
         $mail->setFrom('join@beprofessional.in');

@@ -61,7 +61,7 @@
 
 							<!-- Quick Queries BUTTON -->
 							<li class="nl-simple" aria-haspopup="true">
-								<a href="#" class="btn r-04 btn--theme hover--tra-black last-link">Only Admin</a>
+								<a href="https://dashboard.tawk.to/login" target="_blank" class="btn r-04 btn--theme hover--tra-black last-link">Only Admin</a>
 							</li>
 						</ul>
 					</nav> <!-- END MAIN MENU -->

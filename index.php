@@ -4,11 +4,7 @@
 <?php require('partials/head.php') ?>
 
 <body>
-    <!-- PRELOADER SPINNER
-		============================================= -->
-    <div id="loading" class="loading--theme">
-        <div id="loading-center"><span class="loader"></span></div>
-    </div>
+  
 
     <!-- PAGE CONTENT
 		============================================= -->
@@ -803,7 +799,7 @@
                                     </div>
 
                                     <!-- FEATURE BOX #2 -->
-                                    <div id="fb-12-4" class="fbox-12 bg--white-100 block-shadow r-12">
+                                    <div id="fb-12-4" class="fbox-12 bg--white-100 block-shadow r-12 mb-30">
                                         <!-- Icon -->
                                         <div class="fbox-ico ico-50">
                                             <div class="shape-ico color--theme">
